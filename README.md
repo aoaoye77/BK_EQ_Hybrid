@@ -4,12 +4,14 @@
 
 一款结合了SSL与Pultec声音特点的均衡器
 
+Built for Tone, Not Perfection
+
 > [!IMPORTANT]
 > 注意：此段文档包含 *人类* 生成 ;D 请仔细甄别！
 
 ---
 
-##  缘起 / Inspiration
+##  灵感 / Inspiration
 
 在经历了一段时间的 Vibe Coding 之后，我决定做一款属于自己的插件。那么第一个插件要制作什么呢？想了很久，最后还是回到了最经典、也最常用的工具——**EQ**。巧的是，本人名字的首字母也是 EQ。
 
