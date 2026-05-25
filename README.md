@@ -2,7 +2,8 @@
  </i></p>
 </p>
 
-<img width="640" height="400" alt="HEAD PICTURE" src="https://github.com/user-attachments/assets/1e1664ff-3637-4508-a1f8-0d0f753db17e" />
+<img width="1280" height="800" alt="HEAD PICTURE" src="https://github.com/user-attachments/assets/59efd481-9e0d-4fea-a91c-e4e456557fa5" />
+
 
 
 一款结合了SSL与Pultec声音特点的均衡器
